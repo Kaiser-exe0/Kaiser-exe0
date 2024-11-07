@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/564x/ae/f3/cc/aef3cc0652fac03182fc7aaec8b5f407.jpg" alt="Banner">
+  <img style="border: 1px solid #FFF; border-radius: 10px;" src="https://i.pinimg.com/564x/ae/f3/cc/aef3cc0652fac03182fc7aaec8b5f407.jpg" alt="Banner">
 </p>
 
 <h1 align="center">Hi there 👋</h1>
 <br/>
-<img align="right" width="150" src="https://i.pinimg.com/564x/4e/7e/33/4e7e33ba567b2b86c48ecf977171e0ca.jpg">
+<img align="right" width="150" style="border: 1px solid #FFF; border-radius: 10px;" src="https://i.pinimg.com/564x/4e/7e/33/4e7e33ba567b2b86c48ecf977171e0ca.jpg">
 <br/>
 
 <div align="left">
